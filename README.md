@@ -6,12 +6,7 @@ Install XAMPP or WAMPP.
 
 Open XAMPP Control panal and start [apache] and [mysql] .
 
-Download project from github(https://github.com/varunsardana004/Blood-Bank-And-Donation-Management-System.git).
-
-OR follow gitbash commands
-
-    i>cd C:\\xampp\htdocs\
-   
+Download project from github[(https://github.com/varunsardana004/Blood-Bank-And-Donation-Management-System.git).](https://github.com/Ayusman-Mohanty/Project.git)
 
 Extract files in C:\xampp\htdocs.
 
